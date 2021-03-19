@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_button_to_action_fragment">
+
+
+    <fragment
+        android:id="@+id/navigation_button_to_action_fragment"
+        android:name="com.andriikozakov.buttontoaction.ui.main.buttontoaction.ButtonToActionFragment"
+        android:label="@string/title_button_to_action"
+        tools:layout="@layout/fragment_button_to_action" />
+
+</navigation>

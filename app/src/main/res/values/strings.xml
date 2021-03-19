@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Button to Action</string>
+
+    <string name="txt_perform_action">Perform Action</string>
+    <string name="title_button_to_action">Button To Action</string>
+    <string name="txt_connection_issues">Internet connection issues</string>
+    <string name="txt_toast_message">Action is Toast!</string>
+    <string name="txt_action">Action</string>
+    <string name="txt_notification_title">Action is Notification</string>
+    <string name="txt_action_not_found">Action not found</string>
+</resources>
